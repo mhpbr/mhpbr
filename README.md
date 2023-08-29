@@ -13,7 +13,7 @@
 
 - 📚 Eu regularmente escrevo artigos em: [www.matheusdeveloper.systeme.io](www.matheusdeveloper.systeme.io)
 
-- 💬 Me pergunte sobre **Python, C++, Javascript e Java**
+- 💬 Me pergunte sobre **Python, Javascript e Java**
 
 - 🌐 Idiomas: **Português nativo e inglês avançado**
 
