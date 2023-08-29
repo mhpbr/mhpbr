@@ -11,7 +11,7 @@
 
 - 📘 Atualmente estou estudando **Java**
 
-- 📚 Eu regularmente escrevo artigos em: [www.matheusdeveloper.systeme.io](www.matheusdeveloper.systeme.io)
+- 📚 Eu regularmente escrevo artigos em: https://matheusdeveloper.systeme.io/
 
 - 💬 Me pergunte sobre **Python, Javascript e Java**
 
